@@ -13,8 +13,11 @@ Some of my projects:
 ![osmpf](https://github.com/nsteve2407/osm-localization/blob/main/demo2omspf.gif)
 
 -[Object Detection in Images](https://github.com/nsteve2407/urban-road-osbtacle-detection): Used the Tensoflow Object Detection API to detect objects in Camera images. I used an SSD architecture with a ResNet50 backbone, along with modidifications such as scale and Aspect Ratio tuning for anchor boxes to optimize performace on the Waymo Open Dataset.  
-
--[LiDAR-Camera Senosr fusion for object tracking](https://github.com/nsteve2407/lidar_cam_fusion): Fused 2D detections from camera measurements along with 3D object detections on LIDAR using an Extended Kalman Filter. Currently working on improving tracking performance as well as integration with ROS.
+  
+ ![](https://github.com/nsteve2407/urban-road-osbtacle-detection/blob/master/images/demo.gif)  
+ 
+-[LiDAR-Camera Senosr fusion for object tracking](https://github.com/nsteve2407/lidar_cam_fusion): Fused 2D detections from camera measurements along with 3D object detections on LIDAR using an Extended Kalman Filter. Currently working on improving tracking performance as well as integration with ROS.  
+![](https://github.com/nsteve2407/lidar_cam_fusion/blob/master/img/demo.gif)
 
 
 ---
