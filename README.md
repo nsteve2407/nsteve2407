@@ -4,7 +4,8 @@ I'm a Master student at Texas A&M University. My research focuses on design, dev
 
 ***Skills: C++ / Python / ROS / Tensorflow / Pytorch / Sensor Fusion/ Localization***
 
-Some of my projects:\s
+Some of my projects:  
+
 -[Road Surface Segmentation in 3D point clouds](https://github.com/nsteve2407/road_seg_deeplabv3): Used DeeplLabv3 along with a Range Image based representation of Lidar point clouds to segment road surfaces. Model was trained on rural road data collected around Bryan-College Statiom area.
 -[Global Pose estimation using LIDAR and Open Steet Maps](https://github.com/nsteve2407/osm-localization): Implemented a Particle filter based localization methodology using Lidar Road Detection for measurements, to help deal with driving scenarios where performance of positioning sensors such as GPS is inconsistent. The algorithm was able to recover pose within a search space as large as 36 sq.km with a mean error les than 2 meters after convergence.
 -[Object Detection in Images](https://github.com/nsteve2407/urban-road-osbtacle-detection): Used the Tensoflow Object Detection API to detect objects in Camera images. I used a SSD architecture with a ResNet50 backbone, along with modidifications such as scale and Aspect Ration tuning for anhor boxes to optimize performace on the Wayme Open Dataset.
