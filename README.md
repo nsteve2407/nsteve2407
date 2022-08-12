@@ -4,7 +4,7 @@ I'm a Master student at Texas A&M University. My research focuses on design, dev
 
 Skills: C++ / Python / ROS / Tensorflow / Pytorch / Sensor Fusion/ Localization
 
-- 🔭 I’m currently working on Lidar-Camera fusion based perception system 
+- 🔭 I’m currently working on a Lidar-Camera fusion based perception system 
 - 📫 How to reach me: nstephen@tamu.edu 
 
 
