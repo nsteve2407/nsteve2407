@@ -20,11 +20,10 @@ Some of my projects:
 ![](https://github.com/nsteve2407/lidar_cam_fusion/blob/master/img/demo.gif)
 
 
----
 - 🔭 I’m currently working on a Lidar-Camera fusion based perception system 
 - 📫 How to reach me: nstephen@tamu.edu 
 
-
+---
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nsteve2407)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stephen-ninan-86b3741b0/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/stevet9an/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nsteve2407&show_icons=true&count_private=true)  
