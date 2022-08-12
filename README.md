@@ -10,6 +10,7 @@ Some of my projects:
 ![roadseg](https://github.com/nsteve2407/nsteve2407/blob/main/road-seg.gif)  
 
 -[Global Pose estimation using LIDAR and Open Steet Maps](https://github.com/nsteve2407/osm-localization): Implemented a Particle filter based localization methodology using Lidar Road Detection as measurements. The motivation was to help deal with driving scenarios where performance of positioning sensors such as GPS is inconsistent. The algorithm was able to recover pose within a search space as large as 36 sq.km with a mean error les than 2 meters after convergence.  
+![osmpf](https://github.com/nsteve2407/osm-localization/blob/main/demo2omspf.gif)
 
 -[Object Detection in Images](https://github.com/nsteve2407/urban-road-osbtacle-detection): Used the Tensoflow Object Detection API to detect objects in Camera images. I used an SSD architecture with a ResNet50 backbone, along with modidifications such as scale and Aspect Ratio tuning for anchor boxes to optimize performace on the Waymo Open Dataset.  
 
