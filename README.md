@@ -1,6 +1,6 @@
 ![cover](https://github.com/nsteve2407/nsteve2407/blob/main/cover.jpg)
 ### Hi there 👋,  I'm Stephen Ninan
-I'm a Master student at Texas A&M University. My research focuses on design, development and testing of algorithms to enable deployment of AV's in rural settings.
+I'm an MS student at Texas A&M University. My research focuses on design, development and testing of algorithms to enable deployment of AV's in rural settings.
 
 ***Skills: C++ / Python / ROS / Tensorflow / Pytorch / Sensor Fusion/ Localization***
 
