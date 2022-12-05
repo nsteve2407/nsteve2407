@@ -19,6 +19,10 @@ Some of my projects:
 -[LiDAR-Camera Senosr fusion for object tracking](https://github.com/nsteve2407/lidar_cam_fusion): Fused 2D detections from camera measurements along with 3D object detections on LIDAR using an Extended Kalman Filter. Currently working on improving tracking performance as well as integration with ROS.  
 ![](https://github.com/nsteve2407/lidar_cam_fusion/blob/master/img/demo.gif)
 
+ 
+-[CARLA Simulator: LiDAR-GPS fusion for localization](https://github.com/nsteve2407/CARLA_Localization_and_Mapping): Fused detections from noisy GPS masurements along pose estimates from LIDAR scan matching using a Kalman Filter.
+![](https://github.com/nsteve2407/CARLA_Localization_and_Mapping/blob/main/carla_demo.gif)
+
 
 - 🔭 I’m currently working on a Lidar-Camera fusion based perception system 
 - 📫 How to reach me: nstephen@tamu.edu 
