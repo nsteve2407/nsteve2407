@@ -21,6 +21,8 @@ Some of my projects:
 
  
 -[CARLA Simulator: LiDAR-GPS fusion for localization](https://github.com/nsteve2407/CARLA_Localization_and_Mapping): Fused detections from noisy GPS masurements and pose estimates from LIDAR scan matching using a Kalman Filter.
+
+
 ![](https://github.com/nsteve2407/CARLA_Localization_and_Mapping/blob/main/carla_demo.gif)
 
 
